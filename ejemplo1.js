@@ -1,4 +1,5 @@
 var Mycar = {
-    marca: "Renault",
-    color: "Azul"
+    marca: "twingo",
+    color: "Azul",
+    placa: "abc123"
 }
